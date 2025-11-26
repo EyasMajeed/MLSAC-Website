@@ -1,5 +1,6 @@
-# MLSAC Website Project Structure
+## 📁 MLSAC Website Project Structure
 
+```text
 MLSAC-Website-Project
 ├── public/                 ← User-facing pages (HTML)
 │   ├── index.html          — Homepage
@@ -19,6 +20,7 @@ MLSAC-Website-Project
 │
 ├── .gitignore              — Excludes sensitive and temporary files
 └── README.md               — Project documentation
+
 
 
 
